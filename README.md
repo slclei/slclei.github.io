@@ -10,4 +10,4 @@ Starting from [Build A simple Database with C](https://cstack.github.io/db_tutor
 
 ## Contour with Python
 
-This is a [python script] (https://github.com/slclei/contour_python) to plot contour with designed data.
+This is a [python script](https://github.com/slclei/contour_python) to plot contour with designed data.
