@@ -4,7 +4,7 @@ Starting from Aug 7th, 2020, after reunion with familiy, this website will be us
 
 ## Database
 
-Starting from [Build A simple Database with C](https://cstack.github.io/db_tutorial/), by C.
+Starting from [Build A simple Database with C](https://cstack.github.io/db_tutorial/), by C. No changes from [my version](https://github.com/slclei/simple-database), but with my understanding in readme.
 
 Second one is [Dagoba: an in-memory graph database](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html), by JavaScript.
 
