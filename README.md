@@ -8,6 +8,8 @@ Starting from [Build A simple Database with C](https://cstack.github.io/db_tutor
 
 Second one is [Dagoba: an in-memory graph database](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html), by JavaScript.
 
+Learning from [CS6400](https://github.com/slclei/Lei/tree/master/OMSCS/DataBase).
+
 ## Network Security
 
 ## Contour with Python
