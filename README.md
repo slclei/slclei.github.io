@@ -11,7 +11,7 @@ Second one is [Dagoba: an in-memory graph database](http://aosabook.org/en/500L/
 Learning from [CS6400](https://github.com/slclei/Lei/tree/master/OMSCS/DataBase).
 
 ## Network Security
-Learning from [CS6400](https://github.com/slclei/Lei/tree/master/OMSCS/SecurityOfNetwork).
+Learning from [CS6262](https://github.com/slclei/Lei/tree/master/OMSCS/SecurityOfNetwork).
 
 ## Contour with Python
 
