@@ -13,6 +13,8 @@ Learning from [CS6400](https://github.com/slclei/Lei/tree/master/OMSCS/DataBase)
 ## Network Security
 Learning from [CS6262](https://github.com/slclei/Lei/tree/master/OMSCS/SecurityOfNetwork).
 
+Build a [Frontend framework](https://mfrachet.github.io/create-frontend-framework/). During projects in Network Security, I found that JavaScript is a funny language. Therefore, I plan to learn JS with building a frontend framework.
+
 ## Contour with Python
 
 This is a [python script](https://github.com/slclei/contour_python) to plot contour with designed data.
