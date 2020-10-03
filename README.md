@@ -13,8 +13,11 @@ Learning from [CS6400](https://github.com/slclei/Lei/tree/master/OMSCS/DataBase)
 ## Network Security
 Learning from [CS6262](https://github.com/slclei/Lei/tree/master/OMSCS/SecurityOfNetwork).
 
+## Build website and app with JS
 Build a [Frontend framework](https://mfrachet.github.io/create-frontend-framework/). During projects in Network Security, I found that JavaScript is a funny language. Therefore, I plan to learn React and JS with building a frontend framework. My own work for frame is [here](https://github.com/slclei/MyFrontendFrame). 
 Learning React from [Tutorial](https://reactjs.org/tutorial/tutorial.html), with my own work in [here](https://github.com/slclei/LearnReact).
+
+First site is a [tic-tac-toe](https://slclei.github.io/Lei/web/ticGame/index.html).
 
 ## Contour with Python
 
