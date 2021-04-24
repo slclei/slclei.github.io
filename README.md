@@ -19,6 +19,9 @@ Learning React from [Tutorial](https://reactjs.org/tutorial/tutorial.html), with
 
 First site is a [tic-tac-toe](https://slclei.github.io/Lei/web/ticGame/index.html). 
 
+## JavaSpring
+Build a [student managment system](https://github.com/slclei/JavaSpringBoot) with JavaSpring.
+
 ## Contour with Python
 
 This is a [python script](https://github.com/slclei/contour_python) to plot contour with designed data.  
