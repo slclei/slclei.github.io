@@ -26,4 +26,6 @@ Build a [student managment system](https://github.com/slclei/JavaSpringBoot) wit
 
 This is a [python script](https://github.com/slclei/contour_python) to plot contour with designed data.  
   
+## CUSP database
+This is a [database system](https://github.com/slclei/CUSP_DataBase) for a research group in University of Utah.
  
