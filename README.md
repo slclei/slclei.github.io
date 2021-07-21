@@ -2,6 +2,9 @@
 
 Starting from Aug 7th, 2020, after reunion with familiy, this website will be used to record my steps in CS. I have tried several projects in github previous to test whether I am good at coding or not. After 1 year's study, I believe I like coding and plan to go further. 
 
+## CUSP database
+This is a [database system](https://github.com/slclei/CUSP_DataBase) for a research group in University of Utah.
+
 ## Database 
 
 Starting from [Build A simple Database with C](https://cstack.github.io/db_tutorial/), by C. No changes from [my version](https://github.com/slclei/simple-database), but with my understanding in readme.
@@ -26,6 +29,5 @@ Build a [student managment system](https://github.com/slclei/JavaSpringBoot) wit
 
 This is a [python script](https://github.com/slclei/contour_python) to plot contour with designed data.  
   
-## CUSP database
-This is a [database system](https://github.com/slclei/CUSP_DataBase) for a research group in University of Utah.
+
  
